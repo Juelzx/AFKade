@@ -1,0 +1,23 @@
+## Interface: 16001
+## Title: AFKade
+## Notes: Relaxing mini games for flight paths, boat rides, queues and AFK breaks.
+## Notes-deDE: Entspannte Minispiele für Flugrouten, Schiffsfahrten, Warteschlangen und AFK-Pausen.
+## Author: Julian
+## Version: 1.1.0
+## IconTexture: Interface\AddOns\AFKade\Media\logo
+## AddonCompartmentFunc: AFKade_OnAddonCompartmentClick
+## SavedVariables: AFKadeDB
+## SavedVariablesPerCharacter: AFKadeCharDB
+
+Locales.lua
+Core.lua
+LevelKit.lua
+Games\Untangle.lua
+Games\Pipes.lua
+Games\Sprint.lua
+Games\Hunt.lua
+Games\QuizData.lua
+Games\Quiz.lua
+Shell.lua
+MinimapButton.lua
+Photographer.lua
